@@ -1,0 +1,13 @@
+{
+  "name": "PROJECT 100 — Night City",
+  "short_name": "PROJECT 100",
+  "description": "A 30-day discipline and strength challenge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
